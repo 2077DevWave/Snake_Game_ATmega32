@@ -1,4 +1,5 @@
 # Snake_Game_ATmega32
+![Proteus Design](https://github.com/2077DevWave/Snake_Game_ATmega32/blob/main/Snake%20Game.jpg?raw=true)
 Making snake game with ATmega32 processor and LCD (SED 1565 Controller) screen
 
 ## HOW TO USE
